@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770799925184",
+    "firebase_url": "https://bw-black-market-30a52.firebaseio.com",
+    "project_id": "bw-black-market-30a52",
+    "storage_bucket": "bw-black-market-30a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770799925184:android:3769a3a89275d9f2a93a25",
+        "android_client_info": {
+          "package_name": "com.kotalishious.bwblackmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770799925184-268nltcveqlfj5jbvthjld28rbrb4acv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEEsWSyhXDvYrxT0C-VXB4p1CjlwKNT9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770799925184-268nltcveqlfj5jbvthjld28rbrb4acv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
